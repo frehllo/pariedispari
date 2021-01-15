@@ -20,11 +20,11 @@ namespace pariedispari
                     int n = i;
                     if (n % 2 == 0)
                     {
-                        Console.WriteLine($"pari    {n}");
+                        Console.WriteLine($"pari     {n}");
                     }
                     else
                     {
-                        Console.WriteLine($"dispari {n}");
+                        Console.WriteLine($"dispari  {n}");
                     }
                 }
             }
